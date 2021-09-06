@@ -1,0 +1,22 @@
+h1{
+    color:#f07167;
+} 
+/*CAMBIAR DE COLOR EL LINK*/
+a:link{
+    color:#fb8500;
+    text-decoration: none; /*SUBRAYADO DE TEXTO */
+}
+a:visited{
+    color: #219ebc;
+    text-decoration: none;
+}
+/*CAMBIAR EL COLOR DEL LINK CUANDO TENEMOS EL CURSOR ENCIMA*/
+a:hover{
+    color: #8ecae6;
+    text-decoration: underline;
+}
+
+a:active{
+    color: #023047;
+
+}
